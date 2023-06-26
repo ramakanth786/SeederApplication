@@ -1,0 +1,42 @@
+{
+  "contracts": [
+      {
+          "id": 1,
+          "name": "Contract1",
+          "type": "monthly"
+      },
+      {
+          "id": 2,
+          "name": "Contract2",
+          "type": "monthly"
+      },
+      {
+          "id": 3,
+          "name": "Contract3",
+          "type": "monthly"
+      },
+      {
+          "id": 4,
+          "name": "Contract4",
+          "type": "monthly"
+      },
+      {
+          "id": 5,
+          "name": "Contract5",
+          "type": "monthly"
+      }
+  ],
+  "MyCashKicks": [
+      {
+          "id": 1,
+          "name": "MyFirstAdvance",
+          "status": "pending"
+      }
+  ],
+  "YourPayments": [
+      {
+          "Duedate": "Mar 03,2021",
+          "status": "upcoming"
+      }
+  ]
+}
