@@ -1,0 +1,72 @@
+{
+    "contracts": [
+        {
+            "id": 1,
+            "Name": "Contract1",
+            "Type": "monthly",
+            "Perpayment": "$12,000.25",
+            "TermLength": "12 months",
+            "PaymentAmount": "$126,772.64",
+            "Status":"Available",
+            "Totalfinanced":"-",
+            "Totalavailable":"$126,722.64"
+        },
+        {
+            "id": 2,
+            "Name": "Contract2",
+            "Type": "monthly",
+            "Perpayment": "$6,000.00",
+            "TermLength": "12 months",
+            "PaymentAmount": "$21,120.00",
+            "Status":"Available",
+            "Totalfinanced":"-",
+            "Totalavailable":"$63,360.00"
+        },
+        {
+            "id": 3,
+            "Name": "Contract3",
+            "Type": "monthly",
+            "Perpayment": "$6,000.00",
+            "TermLength": "12 months",
+            "PaymentAmount": "$63,360.00",
+            "Status":"Available",
+            "Totalfinanced":"-",
+            "Totalavailable":"$63,360.00"
+
+        },
+        {
+            "id": 4,
+            "Name": "Contract4",
+            "Type": "monthly",
+            "Perpayment": "$6,000.00",
+            "TermLength": "12 months",
+            "PaymentAmount": "$63,360.00",
+            "Status":"Available",
+            "Totalfinanced":"-",
+            "Totalavailable":"$126,722.64"
+
+        },
+        {
+            "id": 5,
+            "Name": "Contract5",
+            "Type": "monthly",
+            "Perpayment": "$6,000.00",
+            "TermLength": "12 months",
+            "PaymentAmount": "$63,360.00",
+            "Status":"Available",
+            "Totalfinanced":"-",
+            "Totalavailable":"$126,722.64"
+        },
+        {
+            "id": 6,
+            "Name": "Contract6",
+            "Type": "monthly",
+            "Perpayment": "$6,000.00",
+            "TermLength": "12 months",
+            "PaymentAmount": "$63,360.00",
+            "Status":"Available",
+            "Totalfinanced":"-",
+            "Totalavailable":"$126,722.64"
+        }
+    ]
+}

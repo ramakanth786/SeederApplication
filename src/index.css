@@ -1,0 +1,4 @@
+@font-face {
+  font-family: 'Gilroy-Regular';
+  src: local('Gilroy-Regular'), url("./../public/res/fonts/Gilroy-Regular.otf") format('opentype');
+}
